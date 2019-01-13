@@ -1,6 +1,5 @@
 package learn;
 
-import java.util.Date;
 
 public class SinhVien {
     protected String ma, ten, queQuan , soDienThoai;

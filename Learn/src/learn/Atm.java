@@ -1,5 +1,5 @@
 
-package ATM;
+package learn;
 //import java.io.*;
 
 import java.util.Scanner;
